@@ -1,11 +1,6 @@
 # Ignore everything
 *
 
-# Allow the Java directory
-!Java/
-
-# Ignore everything inside Java/
-Java/*
 
 # Allow only specific Java files
 !Java/Main.java
